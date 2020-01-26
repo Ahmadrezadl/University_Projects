@@ -1,6 +1,7 @@
 * Sorted from Hardest to Easiest
 
 | Name | University | Discipline | Course | Year |
+| --- | --- | --- | --- | --- |
 [Lonely Cells](https://github.com/Ahmadrezadl/University_Projects/tree/master/C/Lonely%20Cells) | AmirKabir| CE | FP | Fall 98 |
 [Pac Man](https://github.com/Ahmadrezadl/University_Projects/tree/master/C/Pacman) | AmirKabir | CS | FP | Fall 98 |
 [Falling Empire](https://github.com/Ahmadrezadl/University_Projects/tree/master/C/Falling%20Empire) | AmirKabir | CE FP | Fall 97 |
