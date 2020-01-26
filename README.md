@@ -9,6 +9,9 @@
 
 [Cops and Robbers](https://github.com/Ahmadrezadl/University_Programming_Projects/tree/master/(Cops%20And%20Robbers)%20C%20AmirKabir) AmirKabir CE Fall 98 Midterm Project
 
+# C++:
+[Dictionary](https://github.com/Ahmadrezadl/University_Projects/tree/master/(Dictionary)%20Cpp%20Semnan) Semnan University DS Fall 98 Final Project
+
 # Java:
 [JTank](https://github.com/Ahmadrezadl/University_Programming_Projects/tree/master/(JTank)%20Java%20AmirKabir) AmirKabir CE Spring 96 Project
 
