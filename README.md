@@ -1,7 +1,7 @@
 * Sorted from Hardest to Easiest
 
 | Name | University | Discipline | Course | Year | Description |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 [JTank](https://github.com/Ahmadrezadl/University_Projects/tree/master/Java/JTank) | AmirKabir | CE | AP | Spring 96 | Tank Trouble Game |
 [Jpotify](https://github.com/Ahmadrezadl/University_Projects/tree/master/Java/Jpotify) | AmirKabir | CE | AP | Spring 97 | Music Player |
 [JFileManager](https://github.com/Ahmadrezadl/University_Projects/tree/master/Java/JFileManager) | AmirKabir | CE | AP | Fall 98 | File Manager |
