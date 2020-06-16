@@ -12,4 +12,4 @@
 [PacMan](https://github.com/Ahmadrezadl/University_Projects/tree/master/C/Pacman) | AmirKabir | Com Sci | FP | Fall 98 | PacMan With Ai | ⭐ |
 [Falling Empire](https://github.com/Ahmadrezadl/University_Projects/tree/master/C/Falling%20Empire) | AmirKabir | Com Eng | FP | Fall 97 | Game Like [Lapse](https://play.google.com/store/apps/details?id=com.cornago.stefano.lapse&hl=en) | ✅ |
 [Dictionary](https://github.com/Ahmadrezadl/University_Projects/tree/master/C%2B%2B/Dictionary) | Semnan | Com Eng | DS | Fall 98 | Search in Data Base | ✅ |
-[Cops and Robbers](https://github.com/Ahmadrezadl/University_Projects/tree/master/C/Cops%20And%20Robbers) | AmirKabir | Com Eng | FP | Fall 98 | MidTerm Project |  |
+[Cops and Robbers](https://github.com/Ahmadrezadl/University_Projects/tree/master/C/Cops%20And%20Robbers) | AmirKabir | Com Eng | FP | Fall 98 | |
