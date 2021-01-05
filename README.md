@@ -14,7 +14,7 @@
 [Lonely Cells](https://github.com/Ahmadrezadl/University_Projects/tree/master/C/Lonely%20Cells) | AmirKabir| Com Eng | FP | Fall 98 | Simple Board Game | ✅ |
 [PacMan](https://github.com/Ahmadrezadl/University_Projects/tree/master/C/Pacman) | AmirKabir | Com Sci | FP | Fall 98 | PacMan With Ai | ⭐ |
 [PacMan](https://github.com/Ahmadrezadl/University_Projects/tree/master/C%2B%2B/PacMan) | Tehran | Fa of Com | FP | Fall 99 | PacMan | |
-[Shadow Creator](https://github.com/Ahmadrezadl/University_Projects/tree/master/Python/Shadow) | AmirKabir | Com Eng | Algebra | Fall 99 | Create shadow on picture |  |
+[Shadow Creator](https://github.com/Ahmadrezadl/University_Projects/tree/master/Python/Shadow) | AmirKabir | Com Eng | LA | Fall 99 | Create shadow on picture |  |
 [Falling Empire](https://github.com/Ahmadrezadl/University_Projects/tree/master/C/Falling%20Empire) | AmirKabir | Com Eng | FP | Fall 97 | Game Like [Lapse](https://play.google.com/store/apps/details?id=com.cornago.stefano.lapse&hl=en) | ✅ |
 [Dictionary](https://github.com/Ahmadrezadl/University_Projects/tree/master/C%2B%2B/Dictionary) | Semnan | Com Eng | DS | Fall 98 | Search in Data Base | ✅ |
 [Cops and Robbers](https://github.com/Ahmadrezadl/University_Projects/tree/master/C/Cops%20And%20Robbers) | AmirKabir | Com Eng | FP | Fall 98 | MidTerm Project |  |
